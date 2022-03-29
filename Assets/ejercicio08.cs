@@ -43,7 +43,7 @@ public class ejercicio08 : MonoBehaviour
             break;
 
             default :
-            Debug.Log ("Fecha invalida");
+            Debug.Log ("El día ingresado no es válido");
             break;
 
         }
